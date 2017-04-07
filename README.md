@@ -1,3 +1,6 @@
+### **Nombre:** Jesús Alberto Ramírez Otálvaro
+### **Código:** 1422554
+
 1. **Makefile:** este es el archivo que contiene las instrucciones para compilar su código.
 ‘make io’: con este comando se crea la versión de su aplicación de un solo proceso.
 ‘make iofork’: con este comando se crea la versión de su aplicación que hace uso de la llamada al sistema fork().
